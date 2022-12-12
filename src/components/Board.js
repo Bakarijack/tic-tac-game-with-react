@@ -9,7 +9,7 @@ const Board = ({board, onClick}) => {
             return  <Box value={value} onClick={() => value === null && onClick(idx)}/>
         })}
     </div>
-  )
+  );
 }
 
-export default Board
+export default Board;

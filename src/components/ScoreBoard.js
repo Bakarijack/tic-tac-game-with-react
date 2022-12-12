@@ -12,4 +12,4 @@ const ScoreBoard = ({scores, xPlaying}) => {
     )
 }
 
-export default ScoreBoard
+export default ScoreBoard;
